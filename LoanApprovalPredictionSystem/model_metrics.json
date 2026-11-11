@@ -1,0 +1,13 @@
+{
+    "test_accuracy": 0.7958333333333333,
+    "test_rows": 240,
+    "training_rows": 960,
+    "classes": [
+        0,
+        1
+    ],
+    "class_distribution": {
+        "Rejected (N)": 257,
+        "Approved (Y)": 943
+    }
+}

@@ -54,6 +54,7 @@ except Exception as e:
 # --------------------------------
 
 st.subheader("Enter Applicant Information")
+st.write("DEBUG: Loan form section reached")
 
 with st.form("loan_form"):
 
